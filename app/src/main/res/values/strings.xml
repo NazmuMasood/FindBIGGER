@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Find BIGGER</string>
+    <string name="gameRule">Choose the bigger number to win! Getting it right gives +1point else you lose the same. Get 5points to win. Lets go..</string>
+</resources>
